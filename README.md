@@ -4,29 +4,29 @@
 1) Java Program to Display Prime Number 
 2) Java Program to Display Alternate Prime Numbers
 3) Java Program to Find Square Root of a Number
-4) Java Program to Find Largest of Two Numbers
-5) Java Program to Find Largest of Three Numbers
-6) Java Program to Find Smallest of Three Numbers 
+4) Java Program to Find Largest of Two Numbers ✅
+5) Java Program to Find Largest of Three Numbers ✅
+6) Java Program to Find Smallest of Three Numbers ✅
 7) Java Program to Find GCD of Two Numbers
 8) Java Program to Find LCM of Two Numbers
-9) Java Program to Check if a Number is Positive or Negative
-10) Java Program to Check if a Given Number is Perfect Square
-11) Java Program to find whether number is odd or even
-12) Java Program to Display Even Numbers From 1 to 100
-13) Java Program to Display Odd Numbers From 1 to 100
+9) Java Program to Check if a Number is Positive or Negative ✅
+10) Java Program to Check if a Given Number is Perfect Square 
+11) Java Program to find whether number is odd or even ✅
+12) Java Program to Display Even Numbers From 1 to 100 ✅
+13) Java Program to Display Odd Numbers From 1 to 100 ✅
 14) Java Program to Find Sum of first 10 Natural Numbers
 15) Java Program for Fibonacci Series 
 16) Java Program for Palindrome Number
 17) Java Program for Factorial of any number
 18) Java Program for Armstrong Number in Java
-19) How to Print ASCII Value in Java
-20) Java Program to Swap Two Numbers without using third variable
+19) How to Print ASCII Value in Java ✅
+20) Java Program to Swap Two Numbers without using third variable ✅
 21) Java Program to Find Largest of Four Numbers (use AND/OR Operator)
 22) Java Program to Display Prime Numbers between 1 to 100
 
 
 **Array Programs**
-1) Java Program to print the elements of an array
+1) Java Program to print the elements of an array✅
 2) Java Program to print the elements of an array in reverse order
 3) Java Program to print the elements of an array present on even position
 4) Java Program to print the elements of an array present on odd position
