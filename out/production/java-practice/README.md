@@ -31,14 +31,14 @@
 3) Java Program to print the elements of an array present on even position✅
 4) Java Program to print the elements of an array present on odd position✅
 5) Java Program to print the largest element in an array✅
-6) Java Program to sort the elements of an array in ascending order
-7) Java Program to sort the elements of an array in descending order
-8) Java Program to Print Odd and Even Numbers from an array
-9) Java Program to copy all elements of one array into another array
+6) Java Program to sort the elements of an array in ascending order✅
+7) Java Program to sort the elements of an array in descending order✅
+8) Java Program to Print Odd and Even Numbers from an array✅
+9) Java Program to copy all elements of one array into another array✅
 10) Java Program to find the frequency of each element in the array
 11) Java Program to print the duplicate elements of an array
-12) Java Program to Find 2nd Largest Number in an array
-13) Java to Program Find 2nd Smallest Number in an array
+12) Java Program to Find 2nd Largest Number in an array✅
+13) Java to Program Find 2nd Smallest Number in an array✅
 
 
 **String Programs**
