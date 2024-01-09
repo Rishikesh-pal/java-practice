@@ -35,14 +35,14 @@
 7) Java Program to sort the elements of an array in descending order✅
 8) Java Program to Print Odd and Even Numbers from an array✅
 9) Java Program to copy all elements of one array into another array✅
-10) Java Program to find the frequency of each element in the array
+10) Java Program to find the frequency of each element in the array✅
 11) Java Program to print the duplicate elements of an array
 12) Java Program to Find 2nd Largest Number in an array✅
 13) Java to Program Find 2nd Smallest Number in an array✅
 
 
 **String Programs**
-1) Java Program to count the total number of characters in a string
+1) Java Program to count the total number of characters in a string✅
 2) Java Program to count the total number of vowels and consonants in a string
 3) Java Program to remove all the white spaces from a string
 4) Java Program to replace lower-case characters with upper-case and vice-versa
