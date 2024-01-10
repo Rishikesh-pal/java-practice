@@ -14,7 +14,7 @@
 11) Java Program to find whether number is odd or even ✅
 12) Java Program to Display Even Numbers From 1 to 100 ✅
 13) Java Program to Display Odd Numbers From 1 to 100 ✅
-14) Java Program to Find Sum of first 10 Natural Numbers
+14) Java Program to Find Sum of first 10 Natural Numbers✅
 15) Java Program for Fibonacci Series 
 16) Java Program for Palindrome Number
 17) Java Program for Factorial of any number

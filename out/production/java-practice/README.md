@@ -47,7 +47,7 @@
 3) Java Program to remove all the white spaces from a string
 4) Java Program to replace lower-case characters with upper-case and vice-versa
 5) Java Program to replace the spaces of a string with a specific character
-6) Java Program to find Reverse of the string
+6) Java Program to find Reverse of the string✅
 7) Java program to find the duplicate characters in a string
 8) Java Program to find the frequency of characters
 9) Java Program to separate the Individual Characters from a String
