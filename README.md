@@ -1,8 +1,8 @@
 # Java Practice
 
 **Number Programs**
-1) Java Program to Display Prime Number 
-2) Java Program to Display Alternate Prime Numbers
+1) Java Program to Display Prime Number ✅
+2) Java Program to Display Alternate Prime Numbers✅
 3) Java Program to Find Square Root of a Number
 4) Java Program to Find Largest of Two Numbers ✅
 5) Java Program to Find Largest of Three Numbers ✅
@@ -22,7 +22,7 @@
 19) How to Print ASCII Value in Java ✅
 20) Java Program to Swap Two Numbers without using third variable ✅
 21) Java Program to Find Largest of Four Numbers (use AND/OR Operator)✅
-22) Java Program to Display Prime Numbers between 1 to 100
+22) Java Program to Display Prime Numbers between 1 to 100 ✅
 
 
 **Array Programs**
