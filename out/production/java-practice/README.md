@@ -2,7 +2,7 @@
 
 **Number Programs**
 1) Java Program to Display Prime Number ✅
-2) Java Program to Display Alternate Prime Numbers
+2) Java Program to Display Alternate Prime Numbers✅
 3) Java Program to Find Square Root of a Number
 4) Java Program to Find Largest of Two Numbers ✅
 5) Java Program to Find Largest of Three Numbers ✅
@@ -15,14 +15,14 @@
 12) Java Program to Display Even Numbers From 1 to 100 ✅
 13) Java Program to Display Odd Numbers From 1 to 100 ✅
 14) Java Program to Find Sum of first 10 Natural Numbers✅
-15) Java Program for Fibonacci Series 
+15) Java Program for Fibonacci Series ✅
 16) Java Program for Palindrome Number
 17) Java Program for Factorial of any number
 18) Java Program for Armstrong Number in Java
 19) How to Print ASCII Value in Java ✅
 20) Java Program to Swap Two Numbers without using third variable ✅
 21) Java Program to Find Largest of Four Numbers (use AND/OR Operator)✅
-22) Java Program to Display Prime Numbers between 1 to 100 
+22) Java Program to Display Prime Numbers between 1 to 100 ✅
 
 
 **Array Programs**
