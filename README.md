@@ -17,7 +17,7 @@
 14) Java Program to Find Sum of first 10 Natural Numbers✅
 15) Java Program for Fibonacci Series ✅
 16) Java Program for Palindrome Number✅
-17) Java Program for Factorial of any number
+17) Java Program for Factorial of any number✅
 18) Java Program for Armstrong Number in Java
 19) How to Print ASCII Value in Java ✅
 20) Java Program to Swap Two Numbers without using third variable ✅
