@@ -53,3 +53,15 @@
 9) Java Program to separate the Individual Characters from a String
 10) Java Program to swap two string variables without using third variable✅
 11) Reverse String in Java Word by Word 
+
+**Selenium Programs**
+1) How to handle the DropDown or ListBox
+2) How to take screenshot in selenium
+3) How to fetch the data from excelsheet
+4) Pop-Ups in Selenium
+5) How to perform Mouse Action in Selenium
+6) How to perform Drag and Drop Operation
+7) How to handle ScrollDown 
+8) How to handle IFrame in Selenium
+9) How to handle the Dynamic WebElements 
+10) How to hanlde the WebTable and Dynamic Table
