@@ -43,7 +43,7 @@
 
 **String Programs**
 1) Java Program to count the total number of characters in a string✅
-2) Java Program to count the total number of vowels and consonants in a string
+2) Java Program to count the total number of vowels and consonants in a string✅
 3) Java Program to remove all the white spaces from a string
 4) Java Program to replace lower-case characters with upper-case and vice-versa
 5) Java Program to replace the spaces of a string with a specific character

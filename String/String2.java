@@ -17,7 +17,6 @@ public class String2 {
             }
             else if (s.charAt(i)>='a' || s.charAt(i)<='z'){
                 consnent++;
-
             }
         }
         System.out.println("vouvels : "+vouvels);

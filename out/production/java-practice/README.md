@@ -7,8 +7,8 @@
 4) Java Program to Find Largest of Two Numbers ✅
 5) Java Program to Find Largest of Three Numbers ✅
 6) Java Program to Find Smallest of Three Numbers ✅
-7) Java Program to Find GCD of Two Numbers
-8) Java Program to Find LCM of Two Numbers
+7) Java Program to Find GCD of Two Numbers✅
+8) Java Program to Find LCM of Two Numbers✅
 9) Java Program to Check if a Number is Positive or Negative ✅
 10) Java Program to Check if a Given Number is Perfect Square 
 11) Java Program to find whether number is odd or even ✅
@@ -22,7 +22,7 @@
 19) How to Print ASCII Value in Java ✅
 20) Java Program to Swap Two Numbers without using third variable ✅
 21) Java Program to Find Largest of Four Numbers (use AND/OR Operator)✅
-22) Java Program to Display Prime Numbers between 1 to 100 ✅
+22) Java Program to Display Prime Numbers between 1 and 100 ✅
 
 
 **Array Programs**
@@ -51,5 +51,17 @@
 7) Java program to find the duplicate characters in a string
 8) Java Program to find the frequency of characters
 9) Java Program to separate the Individual Characters from a String
-10) Java Program to swap two string variables without using third variable
+10) Java Program to swap two string variables without using third variable✅
 11) Reverse String in Java Word by Word 
+
+**Selenium Programs**
+1) How to handle the DropDown or ListBox
+2) How to take screenshot in selenium
+3) How to fetch the data from excelsheet
+4) Pop-Ups in Selenium
+5) How to perform Mouse Action in Selenium
+6) How to perform Drag and Drop Operation
+7) How to handle ScrollDown 
+8) How to handle IFrame in Selenium
+9) How to handle the Dynamic WebElements 
+10) How to hanlde the WebTable and Dynamic Table
