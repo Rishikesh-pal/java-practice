@@ -1,12 +1,18 @@
-package Arrray;
+package String;
 
-public class array10 {
+import java.util.Scanner;
+
+public class String8 {
+//    Java Program to find the frequency of characters
+
+
     public static void main(String[] args) {
-        //10) Java Program to find the frequency of each element in the array
-
-        int[] a = {1,2,3,2,3};
-        int[] visited = new int[a.length];
+        System.out.println("Enter the String");
+        Scanner scanner=new Scanner(System.in);
+        String s = scanner.nextLine();
+        char[] a = s.toCharArray();
         int visit = -1;
+        int[] visited = new int[a.length];
         for (int i = 0; i < a.length; i++) {
             int count =1;
             for (int j = i+1; j < a.length; j++) {

@@ -1,0 +1,16 @@
+
+Q
+java:S3740	"/Provide the parametrized type for this generic.(ıÀ€ûÿÿÿÿ8ƒéà”º1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Õà±î8…éà”º1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı½†‹ùÿÿÿÿ8†éà”º1
+L	java:S106"+Replace this use of System.out by a logger.(ÄïÀ†ùÿÿÿÿ8éà”º1
+X	java:S125"<This block of commented-out lines of code should be removed.(Ë’ó8éà”º1
+L	java:S106"+Replace this use of System.out by a logger.(ÄïÀ†ùÿÿÿÿ8Ÿéà”º1
+L	java:S106"+Replace this use of System.out by a logger.(ÄïÀ†ùÿÿÿÿ8 éà”º1
+L	java:S106 "+Replace this use of System.out by a logger.(ë®‚ÿÿÿÿÿ8¢éà”º1
+G	java:S106""+Replace this use of System.out by a logger.(ì“ò¥8£éà”º1
+L	java:S106)"+Replace this use of System.out by a logger.(ÄîÂÏùÿÿÿÿ8­éà”º1
+L	java:S106+"+Replace this use of System.out by a logger.(ë®‚ÿÿÿÿÿ8­éà”º1
+G	java:S106."+Replace this use of System.out by a logger.(§İ«¼8“£á”º1
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8Íú„çÇ1

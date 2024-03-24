@@ -1,0 +1,15 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÅÈÜøÿÿÿÿ8®‚ò©È1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı½†‹ùÿÿÿÿ8±‚ò©È1
+L
+java:S1197"*Move the array designators [] to the type.(ª…â²ùÿÿÿÿ8æµÃ–Î1
+]	java:S125	"<This block of commented-out lines of code should be removed.(ËÅˆ×ıÿÿÿÿ8Ù‚ò©È1
+]	java:S125"<This block of commented-out lines of code should be removed.(¯÷ªÆüÿÿÿÿ8çµÃ–Î1
+L	java:S106+"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8óåÅ–Î1
+L	java:S106."+Replace this use of System.out by a logger.(àÕêåşÿÿÿÿ8ôåÅ–Î1
+L	java:S1060"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8õåÅ–Î1
+L	java:S1063"+Replace this use of System.out by a logger.(àÕêåşÿÿÿÿ8öåÅ–Î1
+L	java:S1066"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8÷åÅ–Î1
+L	java:S1069"+Replace this use of System.out by a logger.(óëğµıÿÿÿÿ8øåÅ–Î1
+L	java:S106<"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8øåÅ–Î1
+L	java:S106?"+Replace this use of System.out by a logger.(óëğµıÿÿÿÿ8ùåÅ–Î1
