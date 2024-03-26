@@ -9,7 +9,7 @@ public class number12 {
         Scanner scanner=new Scanner(System.in);
         System.out.println("Enter any number");
         int n = scanner.nextInt();
-        System.out.println("even nubers are : ");
+        System.out.println("even numbers are : ");
         for(int i=2;i<=n;i+=2){
             System.out.println(i);
         }

@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Number7_8 {
     public static void main(String[] args) {
+//        Java Program to Find GCD of Two Numbers
+//        Java Program to Find LCM of Two Numbers
         int a,b,gcd = 0;
         System.out.println("Enter any two Numbers");
         Scanner scanner = new Scanner(System.in);

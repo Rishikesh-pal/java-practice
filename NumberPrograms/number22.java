@@ -1,5 +1,7 @@
 package NumberPrograms;
 
+import java.util.Scanner;
+
 public class number22 {
     //22) Java Program to Display Prime Numbers between 1 and 100
 
@@ -7,9 +9,16 @@ public class number22 {
     //A prime number is a positive integer greater than 1 that is only divisible by itself and 1.
     // Prime numbers have exactly two factors: 1 and the number itself
     public static void main(String[] args) {
-        int i=100;
-        for (int j = 0; j <= 100; j++) {
-
+        int n1,n2,i,j;
+        n1=0;
+        n2=100;
+        for ( i = n1; i < n2; i++) {
+            for ( j = 2; j <= n2; j++) {
+                if (i%j==0)
+                    break;
+            }
+            if (i==j)
+                System.out.println(j);
         }
 
     }

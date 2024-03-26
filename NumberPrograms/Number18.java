@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Number18 {
     public static void main(String[] args) {
+//        Java Program for Armstrong Number in Java
         int n = 0,arm=0,rem,c;
         System.out.println("Enter any number : ..");
         Scanner scanner=new Scanner(System.in);

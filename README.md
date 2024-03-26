@@ -3,14 +3,14 @@
 **Number Programs**
 1) Java Program to Display Prime Number ✅
 2) Java Program to Display Alternate Prime Numbers✅
-3) Java Program to Find Square Root of a Number
+3) Java Program to Find Square Root of a Number✅
 4) Java Program to Find Largest of Two Numbers ✅
 5) Java Program to Find Largest of Three Numbers ✅
 6) Java Program to Find Smallest of Three Numbers ✅
 7) Java Program to Find GCD of Two Numbers✅
 8) Java Program to Find LCM of Two Numbers✅
 9) Java Program to Check if a Number is Positive or Negative ✅
-10) Java Program to Check if a Given Number is Perfect Square 
+10) Java Program to Check if a Given Number is Perfect Square ✅
 11) Java Program to find whether number is odd or even ✅
 12) Java Program to Display Even Numbers From 1 to 100 ✅
 13) Java Program to Display Odd Numbers From 1 to 100 ✅
@@ -49,7 +49,7 @@
 5) Java Program to replace the spaces of a string with a specific character✅
 6) Java Program to find Reverse of the string✅
 7) Java program to find the duplicate characters in a string✅
-8) Java Program to find the frequency of characters
+8) Java Program to find the frequency of characters✅
 9) Java Program to separate the Individual Characters from a String✅
 10) Java Program to swap two string variables without using third variable✅
 11) Reverse String in Java Word by Word ✅
